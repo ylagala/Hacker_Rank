@@ -49,13 +49,22 @@ public class StringPractice {
 		String str2 = "gala";
 		System.out.println(str1.concat(str2));
 		
+		System.out.println();
+		System.out.println("***** String equals() methods *****");
+		String estr1 = "yesh";
+		String estr2 = "YESH";
+		System.out.println(estr1.equals(estr2));
+		System.out.println(estr1.equalsIgnoreCase(estr2));
 		
 		
+		String s = "saveChangesInTheEditor";
+        int count = 0;
+        for (String w : s.split("(?<!(^|[A-Z]))(?=[A-Z])|(?<!^)(?=[A-Z][a-z])")) {
+            count++;
+       }
+        System.out.println(count);
 		
 		
-		
-		
-
 	}
 
 }
