@@ -25,6 +25,24 @@ public class StringComparison {
 		
 		System.out.println(h.contentEquals(h1));
 		
+		System.out.println("******************");
+		String s = "yeshwanth" ;
+		String s1 = new String("yeshwanth");
+		
+		if(s == s1) System.out.println(true);
+		else System.out.println(false);
+		
+		if(s.equalsIgnoreCase(s1)) System.out.println(true);
+		else
+			System.out.println(false);
+		
+		System.out.println(s.compareToIgnoreCase(s1));
+		System.out.println(s.compareTo(s1));
+		System.out.println(s.contentEquals(s1));
+		
+		
+		
+		
 	
 	}
 
