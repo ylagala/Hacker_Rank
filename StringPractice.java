@@ -63,6 +63,18 @@ public class StringPractice {
             count++;
        }
         System.out.println(count);
+        
+        StringBuilder sb1 = new StringBuilder("Capgemini");
+      
+        sb1.reverse();
+        System.out.println(sb1);
+        
+        StringBuffer b = new StringBuffer("Capgemini");
+        b.reverse();
+        System.out.println(b);
+        
+        System.out.println(sb1.replace(1, 5, "HELLO"));
+        
 		
 		
 	}
