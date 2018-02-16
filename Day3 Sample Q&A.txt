@@ -2,7 +2,7 @@
 24082017
 -------------
 https://www.hackerrank.com/challenges/simple-text-editor
-https://www.hackerrank.com/challenges/maximum-element
+https://www.hackerrank.com/challenges/maximum-element   --Resolved by srikanth
 https://www.hackerrank.com/challenges/equal-stacks
 https://www.hackerrank.com/challenges/similar-strings
 
@@ -15,7 +15,7 @@ Binary Search: https://docs.oracle.com/javase/7/docs/api/java/util/Arrays.html
 31082017
 ------------
 https://www.hackerrank.com/challenges/sam-and-substrings ---Resolved by yesh 
-https://www.hackerrank.com/challenges/fibonacci-modified
+https://www.hackerrank.com/challenges/fibonacci-modified  - Resolved by Yesh
 https://www.hackerrank.com/challenges/abbr
 https://www.hackerrank.com/challenges/decibinary-numbers
 
@@ -26,7 +26,7 @@ https://www.hackerrank.com/challenges/two-robots
 
 
 Dynamic Programming:
-https://www.hackerrank.com/topics/dynamic-programming-basics
+https://www.hackerrank.com/topics/dynamic-programming-basics  --theory
 
 
 
