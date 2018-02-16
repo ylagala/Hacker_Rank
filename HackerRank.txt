@@ -30,3 +30,10 @@ System.out.println("The sum is " + sum);
 Output:
 
 The sum is 150.
+
+Day4 Topics
+--------------
+Collections and helper classes
+Set(Treeset),Map(hashmap),ArrayList
+
+Shuffle and sort collections
